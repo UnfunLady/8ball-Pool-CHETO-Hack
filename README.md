@@ -14,6 +14,8 @@ Customizable
 
   Anticheat Bypass / Antiban
 
+BUt most of the people have dependencies issue . hack can't startings.
+so kindly developer of this hack guide users how to solve this issue.
 
 ![imggg](https://i.postimg.cc/4xK6jkQH/68747470733a2f2f692e706f7374696d672e63632f37593350626b79522f3861633461322d50776b6d6c6e392d41352e6a70.jpg)
 ![imggg](https://i.postimg.cc/Wb166JDn/68747470733a2f2f692e706f7374696d672e63632f4e6a5173487a736a2f3861633461322d50776b6d6c6e392d41352e6a70.jpg)
